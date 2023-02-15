@@ -1,0 +1,24 @@
+body{
+   
+  background:  url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/440px-Bob-Marley.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-color: rgba(255, 255, 255, 0.7);
+ background-blend-mode: lighten;
+  position: center;}
+.name{text-align:center;
+color:lightblue;background-color:red}
+.back{text-align:center;color:red;background-color:lightgreen}
+.p1{text-align:center;color:green;background-color:lightblue}
+.subtitle{text-align:center;color:lightblue;background-color:red}
+.marty{text-align:center;color:green;background-color:lightblue}
+.mcfly{text-align:center;color:lightblue;background-color:green}
+.williams{text-align:center;color:purple;background-color:lightgreen}
+table{background-color:lightgreen;text-align:center}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+  
